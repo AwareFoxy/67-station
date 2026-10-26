@@ -1,0 +1,112 @@
+Reserve-Station-Only License for "March of the Toreadors" (arrangement by AwareFoxy)
+
+Copyright (c) 2026 AwareFoxy. All rights reserved.
+
+1. The Work. "Work" means the copyright holder's original contribution:
+   the score, arrangement and orchestration, and audio files rendered
+   from it, as identified in the repository's REUSE metadata. The
+   underlying composition by Georges Bizet is in the public domain and
+   is not restricted by this licence. This licence does not transfer
+   ownership of any copyright.
+
+2. Definitions. "Project" means the Reserve Station project maintained
+   at github.com/Reserve-Station/Reserve-Station, and any successor
+   maintainer of that same project. "Official Builds" means game client
+   and server builds published by the Project's maintainers from that
+   repository through the Project's official distribution channels.
+
+3. Grant. The copyright holder grants the Project a non-exclusive,
+   worldwide, royalty-free, non-transferable licence to: (a) host the
+   Work in the official repository; (b) reproduce and distribute the
+   Work as part of Official Builds, including delivery to players'
+   clients; (c) play the Work in the game; (d) make technical
+   modifications.
+   3.1 Service providers. The Project may authorize its contractors and
+       service providers (such as build, hosting and CDN providers) to
+       exercise these rights solely on the Project's behalf and only to
+       the extent necessary. No independent right to use or redistribute
+       the Work is granted to such parties.
+   3.2 Players. A player who receives an Official Build may run the game
+       and hear the Work as part of it. This does not include the right
+       to extract the Work and use it outside the game.
+   3.3 Technical operations.
+   (a) Permitted technical operations are limited to: (i) conversion
+       between audio formats and codecs (for example WAV to OGG) and
+       changes of bitrate or sample rate; (ii) uniform gain change and
+       loudness or peak normalisation applied to the whole file;
+       (iii) trimming silence at the beginning or end; (iv) looping by
+       repeating the complete Work, or a complete unaltered section of
+       it, without altering its content; (v) playback processing
+       performed automatically by the game engine at runtime (such as
+       volume attenuation, stereo panning, positional audio).
+   (b) Not permitted without prior written permission: any change to
+       the musical content, including notes, harmony, rhythm, tempo,
+       key, instrumentation, structure (cutting, reordering or
+       shortening of sections other than under (a)(iii) and (a)(iv)),
+       mixing or layering with other audio, and the addition of
+       effects (such as reverb or equalisation) other than under
+       (a)(v).
+   (c) Where it is unclear whether an operation is technical under (a),
+       it is treated as not permitted until the copyright holder agrees.
+
+4. Reservation of rights.
+   4.1 All rights not expressly granted are reserved. The following
+       require prior written permission of the copyright holder: use of
+       the Work outside Official Builds; extraction and separate
+       distribution of the Work; derivative works (including new
+       arrangements and remixes) beyond Section 3.3; sale of the Work on
+       its own.
+   4.2 No rights to the Work are granted to forks, mirrors,
+       redistributors or downstream projects solely by virtue of their
+       copying, modifying or distributing the Project's source code or
+       game builds.
+   4.3 No open licence designation. Without the copyright holder's
+       separate written consent, the Project shall not designate,
+       label or represent the Work as licensed under CC0, any
+       Creative Commons licence, the GNU Affero General Public
+       Licence, the MIT licence or any other open-source or public
+       licence, in repository metadata, REUSE annotations, attribution
+       files, README, documentation or elsewhere. General licensing
+       statements applying to the repository or to its assets
+       ("unless otherwise stated" or similar) do not apply to the Work;
+       the Work is identified solely by the identifier
+       LicenseRef-Toreadors-Reserve-Only.
+
+5. Attribution. The Project shall credit the copyright holder in the
+   attribution metadata accompanying the Work in the repository.
+
+6. Termination.
+   6.1 The copyright holder may terminate this licence with 30 days'
+       written notice, or if the Project materially breaches Section 3
+       and fails to cure within 30 days of notice.
+   6.2 Project's obligations. Upon termination, within 30 days the
+       Project shall: (a) remove the Work from the current state of the
+       official repository; (b) stop including the Work in new Official
+       Builds; (c) stop offering for download, through official
+       distribution channels, builds that contain the Work, or replace
+       them with builds without it, to the extent reasonably practicable.
+       The Project is not required to alter the repository's version
+       history or to recall copies already delivered to players.
+   6.3 Players' existing copies. A player who received an Official Build
+       containing the Work before termination may continue to run that
+       copy and hear the Work within it, subject to Section 3.2. This
+       does not permit the Project, a service provider or any other
+       person to make that build available again, or to distribute the
+       Work further, after the periods in Section 6.2.
+
+7. No warranty. To the maximum extent permitted by applicable law, the
+   Work is provided "as is", without warranty of any kind. Liability
+   that cannot be excluded under mandatory law remains unaffected.
+
+8. Governing law and jurisdiction.
+   8.1 Governing law. This licence, and any non-contractual obligations
+       arising out of or in connection with it, are governed by the laws
+       of the Kingdom of the Netherlands, without regard to its
+       conflict-of-law rules.
+   8.2 Jurisdiction. Any dispute arising out of this licence
+       shall be submitted to the exclusive jurisdiction of the
+       competent court in Amsterdam, the Netherlands.
+   8.3 The choice of law in 8.1 does not itself determine jurisdiction,
+       and the choice of forum in 8.2 does not itself determine the
+       governing law. Mandatory provisions of law that cannot be
+       excluded by agreement remain unaffected.

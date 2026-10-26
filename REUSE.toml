@@ -14,3 +14,10 @@ path = ["**.txt", "**.json"]
 precedence = "aggregate"
 SPDX-FileCopyrightText = "None"
 SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = [
+  "Resources/Audio/_Reserve/Jukebox/toreadors_march.ogg"]
+precedence = "override"
+SPDX-FileCopyrightText = "2026 AwareFoxy"
+SPDX-License-Identifier = "LicenseRef-Toreadors-Reserve-Only"
